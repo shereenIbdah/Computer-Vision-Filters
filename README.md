@@ -9,3 +9,6 @@ This project looks at how different filters can reduce noise in images. It focus
 The project measures how well these filters perform with different levels of noise and sizes of filter windows (kernels). It uses numbers like Mean Squared Error (MSE) and Peak Signal-to-Noise Ratio (PSNR) to compare them. The study also checks how the filter size affects noise removal, keeping edges, and the time it takes to process images. The goal is to find the best way to use these filters in real situations, balancing between quality and speed.
 
 set of three grayscale images was used as input for applying different types of noise, with each noise type added at varying intensity levels.
+
+
+
